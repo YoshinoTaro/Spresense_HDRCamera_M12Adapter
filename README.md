@@ -25,10 +25,10 @@ Remove the camera barrel on Spresense HDR Camera Board. Please take care to keep
 ![sDSC02406](https://user-images.githubusercontent.com/18510684/169641968-0d77b7f0-927f-4b89-8a28-685d62582e90.jpg)
 
 
-## Step5: Put the Lens barrel with the adapter to Spresense HDR Camera Board
+## Step5: Put the Lens barrel with the adapter on Spresense HDR Camera Board
 ![sDSC02409](https://user-images.githubusercontent.com/18510684/169641848-d14b1052-f7aa-4e79-93bb-f2818c801b6d.jpg)
 
-## Step6: Put an M12 Lens and finish the work!
+## Step6: Attach an M12 Lens and finish the work!
 ![sDSC02411](https://user-images.githubusercontent.com/18510684/169641917-938e3b21-91d9-47fe-9535-31064c793940.jpg)
 
 
