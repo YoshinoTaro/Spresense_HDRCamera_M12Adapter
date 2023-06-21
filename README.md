@@ -17,7 +17,7 @@ Remove the camera barrel on Spresense HDR Camera Board. Please take care to keep
 ![sDSC02399](https://user-images.githubusercontent.com/18510684/169641458-e7fa5e6d-94e3-416f-a796-83e83867d64a.jpg)
 | parts | Spec |
 |-------|------|
-| [M12 barrel]([https://www.amazon.co.jp/s?k=CCTV+M12+%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1M2AJM68M2NBH&sprefix=cctv+m12+%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%2Caps%2C187&ref=nb_sb_noss) | M12P0.5/Mounting Hole Distance 20.0mm/Hole Diameter M2 |
+| [M12 barrel](https://www.amazon.co.jp/s?k=CCTV+M12+%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1M2AJM68M2NBH&sprefix=cctv+m12+%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%2Caps%2C187&ref=nb_sb_noss) | M12P0.5/Mounting Hole Distance 20.0mm/Hole Diameter M2 |
 | Screw | M2 x 6.0mm |
 
 ## Step4: Put the adapter to the Lens barrel
